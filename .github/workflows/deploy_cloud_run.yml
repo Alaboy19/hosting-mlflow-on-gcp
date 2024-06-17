@@ -15,7 +15,7 @@ jobs:
       REGION: us-central1                     # edit here
       PROJECT_ID: annular-will-426711-e6             # edit here
       REPOSITORY: my-container-repo    # edit here
-      SERVICE_ACCOUNT: nurbados104@gmail.com   # edit here
+      SERVICE_ACCOUNT: service-account-1@annular-will-426711-e6.iam.gserviceaccount.com   # edit here
       SERVICE_NAME: my-cloud-run-service         # edit here
 
     steps:
